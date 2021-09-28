@@ -13,3 +13,8 @@ MPPL Klasik :
 
 3. Spiral
    Model Spiral adalah proses pengembangan perangkat lunak yang menggabungkan antara elemen waterfall model dengan prototyping dalam setiap tahap, Metode waterfall yang fokus kepada proses pengembangan perangkat lunak yang sistematis atau berurutan dan metode prototyping yang selalu di evaluasi sehingga dapat fokus pada penilaian resiko dan minimalisasi resiko project. Metode spiral memecah  project  menjadi  beberapa bagian dan terus berjalan membentuk lingkaran atau spiral. Kelemahan metode spiral memakan waktu dan Rumit serta harus sesuai dengan jadwal
+
+MPPL Agile :
+1. Scrum 
+   Scrum salah satu metode rekayasa perangkat lunak dengan menggunakan prinsip-prinsip pendekatan agile, metode agile  adalah sekumpulan metode pengembangan software yang dilakukan secara bertahap dan berulang (iterasi) dan dapat memungkinkan  tim  untuk  mengembangkan perangkat lunak yang memiliki requirement yang samar-samar serta mudah dirubah. Jadi Scrum bertumpu pada kekuatan kolaborasi tim, incremental product dan proses iterasi untuk mewujudkan hasil akhir.
+   
