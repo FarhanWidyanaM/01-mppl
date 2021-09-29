@@ -17,4 +17,10 @@ MPPL Klasik :
 MPPL Agile :
 1. Scrum <br>
    Scrum salah satu metode rekayasa perangkat lunak dengan menggunakan prinsip-prinsip pendekatan agile, metode agile  adalah sekumpulan metode pengembangan software yang dilakukan secara bertahap dan berulang (iterasi) dan dapat memungkinkan  tim  untuk  mengembangkan perangkat lunak yang memiliki requirement yang samar-samar serta mudah dirubah. Jadi Scrum bertumpu pada kekuatan kolaborasi tim, incremental product dan proses iterasi untuk mewujudkan hasil akhir.
+
+2. Extreme  Programming<br>
+   Extreme Programming (XP) adalah metodologi pengembangan perangkat lunak untuk meningkatkan kualitas perangkat lunak dan responsif terhadap perubahan kebutuhan pelanggan. XP cenderung menggunakan pendekatan Object-Oriented metode pemrograman yang berorientasi kepada objek, suatu objek dimulai dari berbagai bagian kecil dan diastukan menjadi objek yang utuh . Tahapan-tahapan yang harus dilalui antara lain: Planning, Design, Coding, dan Testing. Metode ini menjadi terkenal karena cocok dipakai untuk dev yang berkerja dengan sumber daya terbatas, dan dapat memenuhi kepuasan pada kustomer
+
+3. Kanban<br>
+   Kanban dalam bahasa jepang berarti Visual dan Sinyal “Visual record or signal”.Metode ini menggunakan aliran informasi berupa kanban yang di visualisasikan menggunakan papan, kolom dan kartu atau peralatan lainnya seperti ,lampu dan lain-lain. Metode yang memiliki sifat sangatlah visual ini dapat membantu sebagai navigasi, membuat tim menjadi lebih mudah dalam melakukan komunikasi pekerjaan, apa saja yang harus dilakukan dan kapan waktu untuk melakukan pekerjaan tersebut.
    
